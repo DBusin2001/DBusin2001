@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bioinformatics/Biostatistics
+Building up my portfolio and skills
+Mainly work with R & Python
 
 <!--
 **DBusin2001/DBusin2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
