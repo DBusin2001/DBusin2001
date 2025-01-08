@@ -1,4 +1,4 @@
-Biology bachelor studente @ Universidad de Cuyo, Argentina
+Biology bachelor student @ Universidad de Cuyo, Argentina
 
 Bioinformatics/Biostatistics focused
 
