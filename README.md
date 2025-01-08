@@ -1,5 +1,9 @@
-## Bioinformatics/Biostatistics
+Biology bachelor studente @ Universidad de Cuyo, Argentina
+
+Bioinformatics/Biostatistics focused
+
 Building up my portfolio and skills
+
 Mainly work with R & Python
 
 <!--
